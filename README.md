@@ -1,5 +1,5 @@
 # ClientPanel
-This is a project using Angular 4
+This is a project using Angular 4.
 This app is a client management system. It allows the user to see a list of clients, add to the client list, update the clients
 and delete clients all through a user interface. The backend uses Firebase which is a cloud database maintained by Google and is a good replacement for a 
 backend when trying to make sure it works as intended.
