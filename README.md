@@ -6,3 +6,4 @@ backend when trying to make sure it works as intended.
 Views of the dashboard, details page, edit and delete pages can be seen by looking at the .pngs above. Font awesome, bootstrap and html
 were all used to create the user interface pages. Right now all the buttons work except Register and Login which I still need
 to code the functionality.
+This app was built using Angular CLI, Node.js, bootstrap 4.0.0-beta, font-awesome, jquery, and popper.js.
